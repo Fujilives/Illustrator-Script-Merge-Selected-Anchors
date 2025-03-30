@@ -6,6 +6,7 @@ There is a freely available script called "merge overlapped anchors" that has be
 In searching, Copilot popped up here on github with Chat GPT 4o loaded, and it asked me if I would like it to try scripting one.  I fed it the old script by SATO Hiroyuki and in a couple attempts, to my suprise, it had a working variant of the script that did just this.  I do not know illustrator scripting, so I found this suprising and very useful, and thought I'd share the result here freely for anyone else to use if they find it beneficial!
 
 To reference the original scripts disclaimer:
+
 // This script provided "as is" without warranty of any kind.
 // Free to use and distribute.
 
